@@ -21,35 +21,9 @@ body {
    
     
 }
-.tutor-row {
-    --tutor-gutter-x: 1.5rem;
-    --tutor-gutter-y: 0;
-    display: flex;
-    flex-wrap: wrap;
-    margin-top: calc(-1 * var(--tutor-gutter-y));
-    margin-right: calc(-.5 * var(--tutor-gutter-x));
-    margin-left: calc(-.5 * var(--tutor-gutter-x));
-}
 
-.tutor-col-1{
-    flex: 0 0 auto;
-    width: 100%;
-}
 
-div {
-    border-style: solid;
-}
 
-form {
-    margin-bottom: 20px;
-}
-
-.select{
-
-    font-size: 40px;
-    font-family: Raleway, Arial, Helvetica, sans-serif;
-
-}
 
 
 
